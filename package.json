@@ -1,0 +1,21 @@
+{
+  "name": "valipipe",
+  "version": "1.0.0",
+  "description": "Validate your variables with pipes",
+  "main": "valipipe.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannabeyourdrug/valipipe.git"
+  },
+  "keywords": [
+    "valipipe",
+    "validate",
+    "pipe"
+  ],
+  "author": "Gusev Danila <wannabeyourdrug@wbydcloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wannabeyourdrug/valipipe/issues"
+  },
+  "homepage": "https://github.com/wannabeyourdrug/valipipe#readme"
+}
